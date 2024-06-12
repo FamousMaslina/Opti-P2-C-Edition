@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718135734 source:/home/tudi/Documents/GitHub/Opti-P2-C-Edition/Opti P2/main.cpp
+	<iostream>
+	<cstdlib>
+
