@@ -15,7 +15,6 @@ void cls()
 
 void help()
 {
-    //cls();
     cout << "\n" << endl;
     cout << "Commands: " << endl;
     cout << "OS Related: " <<endl;
