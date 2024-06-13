@@ -10,8 +10,6 @@ Inspired by MS-DOS
     * Visual c++ Redistributable
     * .NET Framework 4.8.1 AND .NET Framework 3.0 enabled in "Windows Features" window.
 * Then, you can go right ahead and run 'op2.exe' directly and execute 'help' to see a list of commands.
-(Linux Support & Tutorial coming in 0.2)
 
-## Update log:
-### ----0.1 (Master Version) 1A----
-* Added 'help', 'info' and 'cls' commands.
+### For Linux:
+* (Linux Support & Tutorial coming in 0.2)
