@@ -10,6 +10,7 @@ Inspired by MS-DOS
     * Visual c++ Redistributable
     * .NET Framework 4.8.1 AND .NET Framework 3.0 enabled in "Windows Features" window.
 * Then, you can go right ahead and run 'op2.exe' directly and execute 'help' to see a list of commands.
+* If you want custom hardware, you can run 'op2clauncher.exe'.
 
 ### For Linux:
 * (Linux Support & Tutorial coming in 0.2)
