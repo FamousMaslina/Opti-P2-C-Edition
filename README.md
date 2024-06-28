@@ -1,5 +1,6 @@
-# Opti P2 C++ - Spinoff that was made in Python
+# Opti P2 C++
 Inspired by MS-DOS
+(Go here for the original Opti P2, made in Python. It's full of features, even more than this version! - https://github.com/FamousMaslina/Opti-P2)
 
 ## Why?
 * This is a way to gain experience with C++ for school, and test my skills a little with other languages. 
