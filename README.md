@@ -1,5 +1,5 @@
 # Opti P2 C++
-Inspired by MS-DOS
+Inspired by MS-DOS - 
 (Go here for the original Opti P2, made in Python. It's full of features, even more than this version! - https://github.com/FamousMaslina/Opti-P2)
 
 ## Why?
